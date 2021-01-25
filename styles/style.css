@@ -1,0 +1,32 @@
+body {
+   font-family: Roboto;
+}
+
+.nome-empresa {
+   font-family: 'Lobster', cursive; 
+   color: white;
+   font-size: 1.5rem;
+   margin-top: 15px;
+}
+
+.titulo {
+   margin-top: 1.5rem;
+   margin-bottom: 1rem;
+}
+.reponsive-img {
+  width: 700px;
+}
+
+.sub-titulo {
+   margin: 1rem 0
+}
+
+.card-img-top {
+   width: 30%;
+}
+
+.img-icon {
+   margin-right: 3px;
+}
+
+/*<small class="text muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
